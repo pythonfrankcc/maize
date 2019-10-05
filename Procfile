@@ -1,0 +1,1 @@
+web gunicorn jkuat_api:app
